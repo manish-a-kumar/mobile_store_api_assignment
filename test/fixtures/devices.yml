@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brands: one
+  name_of_the_phone: MyString
+  model_number: MyString
+  specifications: MyString
+  mrp: MyString
+  selling_price: MyString
+  availability: MyString
+  status: MyString
+  image: MyString
+  imei_number: MyString
+
+two:
+  brands: two
+  name_of_the_phone: MyString
+  model_number: MyString
+  specifications: MyString
+  mrp: MyString
+  selling_price: MyString
+  availability: MyString
+  status: MyString
+  image: MyString
+  imei_number: MyString
