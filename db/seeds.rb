@@ -15,6 +15,8 @@ end
 
 p "Created #{Brand.count} brands."
 
+
+<<-DOC
 #Device.destroy_all
 
 2.times do |index|
@@ -47,3 +49,5 @@ p "Created #{Device.count} devices."
 end
 
 p "Created #{Specification.count} specifications."
+
+DOC
